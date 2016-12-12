@@ -1,3 +1,4 @@
+##For visualizations of logs being generated
 import pandas as pd
 from sys import argv
 df = pd.read_csv(argv[1])
