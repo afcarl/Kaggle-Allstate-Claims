@@ -5,4 +5,4 @@ Best Public LB score: 1102.62380 MAE<br>
 Public Final Rank: 238<br>
 Best Private LB score: 1114.90211<br>
 Best Private Rank: 242<br>
-Final Result Top 8% Among 3155 Participants, Bronze Medal <br>
+Final Result Top 8% Among 3055 Participants, Bronze Medal <br>
